@@ -1,0 +1,9 @@
+
+    "SMS" : "../skillbox-diploma/sms.data",
+	"voice_call" : "../skillbox-diploma/voice.data",
+	"email" : "../skillbox-diploma/email.data",
+	"billing" : "../skillbox-diploma/billing.data",
+	"MMS" : "http://127.0.0.1:8383/mms",
+    "support" : "http://127.0.0.1:8383/support",
+    "incident" : "http://127.0.0.1:8383/accendent"
+}
